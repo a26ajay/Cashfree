@@ -1,4 +1,3 @@
 # koreroplatform
-SMS API
-C# code
-Visual Studio
+SMS API,
+C# code, ASP.NET,
