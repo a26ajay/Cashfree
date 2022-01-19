@@ -1,3 +1,3 @@
 # koreroplatform
 SMS API,
-C# code, ASP.NET,
+C# code, ASP.NET
